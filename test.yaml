@@ -1,0 +1,5 @@
+version: v2.1
+service:
+    test:
+        image: python
+        port: 10086

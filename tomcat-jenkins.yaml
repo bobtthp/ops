@@ -1,0 +1,5 @@
+version: v2.1
+service:
+    tomcat-jenkins:
+        image: java
+        port: 6379
